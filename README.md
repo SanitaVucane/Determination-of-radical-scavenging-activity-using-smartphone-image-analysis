@@ -1,5 +1,5 @@
 # Determination-of-radical-scavenging-activity-using-smartphone-image-analysis
-Determination of radical scavenging activity using smartphone image analysis in the RGB colour system
+Project name: Determination of Radical Scavenging Activity in Vegetable Oils Using Smartphone Image Analysis in the RGB Colour System
 
 License: e.g. GNU GPL version 3.
 
