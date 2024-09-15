@@ -2,7 +2,7 @@ import math
 import pandas as pd
 
 # Izvada algoritma nosaukumu un versiju / Print the Algorithm name and version
-print("Radikāļu neitralizēšanas aktivitātes noteikšana izmantojot viedtālrunī iegūto attēlu analīzi RGB krāsu sistēmā / Determination of radical scavenging activity using smartphone image analysis in the RGB colour system")
+print("Radikāļu neitralizēšanas aktivitātes noteikšana izmantojot viedtālruņa attēlu analīzi RGB krāsu sistēmā / Determination of radical scavenging activity using smartphone image analysis in the RGB colour system")
 print("Algorithm version: v.1.0")
 print()
 
